@@ -8,7 +8,7 @@ on:
   push:
   schedule:
     # 07:05 everyday in UTC+8, 23:05 everyday in UTC+0
-  - cron: '30 22 * * *'
+  - cron: '30  开香槟咯22 * * *'
 
 jobs:
   build:
